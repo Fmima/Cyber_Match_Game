@@ -88,10 +88,10 @@ class CardManager():
         self.current_level = self.level4 
 
         path = "cyber/img/"
-        files = [path + "honeypot.png", path + "phishing.png", path + "sql_injaction.png",
+        files = [path + "honeypot.png", path + "phishing.png", path + "sql_injection.png",
                  path + "sniffing.png", path + "social.png", path + "worm_virus.png",
                  path + "xss.png", path + "trojan.png", path + "dos.png",
-                 path + "ransomware.png", path + "virus.png", path + "cloud-security.png"]
+                 path + "ransomware.png", path + "virus.png", path + "cloud.png"]
 
         random_list = []
 
